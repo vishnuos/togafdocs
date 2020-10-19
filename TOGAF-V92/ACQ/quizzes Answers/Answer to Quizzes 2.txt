@@ -1,0 +1,26 @@
+Answer to Quiz 2.
+1. T
+2. F   (The name COBIT originally stood for "Control Objectives for Information and 	Related Technology," but the spelled-out version of the name was dropped in favor of the acronym in the fifth iteration of the framework. COBIT 5 is based on five key principles for governance and management 	of enterprise IT:)
+3. F
+4. F
+5. T
+6. T
+7. F (Building blocks can be identified in bcd. In phase E we have solution building blocks)
+8. T
+9. F (Governance is only guideline and monitoring not implementing)
+10. T (ACF include Metamodel which is details of Artifacts, Deliverables and Building blocks) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Answer to Quiz 3.
+1. F (Iteration is the concept of small piece at a time)
+2. T
+3. F (Business Architecture should have direction from Architecture Vision. Also it is a Pre req for Information System and Technology Architecture)
+4. F (Not Possible. There is a separate phase for each)
+5. F (Principles are created during Phase P and are seldom changed)
+6. F (Objective is to understand the requirement with involvement of Stakeholders)
+7. T (Output of this phase is Statement of Architecture work, "Refined principles, goals, & drivers" and Architecture Principles).
+8. T
+9. T
+10. T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
